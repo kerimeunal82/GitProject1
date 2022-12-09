@@ -1,1 +1,4 @@
 added directly from Githup file to simulate remote repo has commits we do not hav locally
+
+
+doing more work and tryng to pul it down to local 
