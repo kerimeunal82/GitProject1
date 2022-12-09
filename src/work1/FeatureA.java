@@ -1,6 +1,7 @@
 package work1;
 
 public class FeatureA {
-// work 1 on tis feature
+// work 1 on this feature
+    // work 2 on this feature
 
 }
